@@ -5,7 +5,7 @@ Database for Homologation and Training with docker, which can be used in the loc
 ### In Windows 10 Local CMD or PowerSHell
 ### 1º Installing WSL in Local Environment Windows 10
 ```bash
-wsl --instal
+wsl --instal # In Windows 10 Local CMD or PowerSHell
 ```
 ### 2º Update WSL in Local Environment Windows 10
 
