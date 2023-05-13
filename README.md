@@ -22,7 +22,7 @@ wsl --update
 ```bash
 docker ps
 ```
-### if it returns error, uninstall and reinstall docker-desktop
+### if it returns an error, uninstall and reinstall docker-desktop, and repeat the above test.
 
 ### 5º Up Containers
 
