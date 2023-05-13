@@ -15,7 +15,8 @@ wsl --instal
 wsl --update
 ```
 
-### 3º Instal Instal Docker Desktop
-[![NPM](https://github.com/RodrigoDeOliveiraSilva/DatabaseForHomologationAndTrainingDocker/assets/97246882/961ae5bb-025d-4516-b571-e1cf5d78f5b5)](https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe)
+### 3º Instal Docker Desktop
+[Dowload Docker Desktop](https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe) or [Download Page Link](https://docs.docker.com/desktop/install/windows-install/)
+
 
 
