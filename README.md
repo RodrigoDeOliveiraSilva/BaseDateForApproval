@@ -23,8 +23,7 @@ wsl --update
 docker ps
 ```
 ### if it returns an error, uninstall and reinstall docker-desktop, and repeat the above test.
-### "Hardware Assisted Virtualization and Data Execution Protection must be enabled in the BIOS" issue
-[Link da Solucao](https://stackoverflow.com/questions/39684974/docker-for-windows-error-hardware-assisted-virtualization-and-data-execution-p)
+### "Hardware Assisted Virtualization and Data Execution Protection must be enabled in the BIOS" issue - [Link da Solucao](https://stackoverflow.com/questions/39684974/docker-for-windows-error-hardware-assisted-virtualization-and-data-execution-p)
 
 ### 5º Up Containers
 
