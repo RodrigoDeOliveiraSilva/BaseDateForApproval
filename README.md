@@ -1,4 +1,6 @@
 # DatabaseForHomologationAndTrainingDocker
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/RodrigoDeOliveiraSilva/DatabaseForHomologationAndTrainingDocker/blob/main/LICENSE) 
+
 Database for Homologation and Training with docker, which can be used in the local environment with WSL-Docker or in Gitpod.
 ## Steps to use in Local Environment Windows 10
 
@@ -14,7 +16,6 @@ wsl --update
 ```
 
 ### 3º Instal Instal Docker Desktop
-[Link](https://docs.docker.com/desktop/install/windows-install/)
-![DowloadDocker](https://github.com/RodrigoDeOliveiraSilva/DatabaseForHomologationAndTrainingDocker/assets/97246882/961ae5bb-025d-4516-b571-e1cf5d78f5b5)
+[![DowloadDocker](https://github.com/RodrigoDeOliveiraSilva/DatabaseForHomologationAndTrainingDocker/assets/97246882/961ae5bb-025d-4516-b571-e1cf5d78f5b5)](https://docs.docker.com/desktop/install/windows-install/)
 
 
