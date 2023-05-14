@@ -11,4 +11,10 @@ docker-compose up -d
 
 ### [Tutorial for use via Windows 10](https://github.com/RodrigoDeOliveiraSilva/DatabaseForHomologationAndTrainingDocker/tree/main/InstallDockerWin10)
 
+O image.file especifica o caminho para o Dockerfile personalizado que você deve criar para definir a imagem que será usada no Gitpod.
+
+A seção tasks define uma lista de tarefas que o Gitpod deve executar quando o ambiente for iniciado. O comando ./start.sh inicia o script que você criou.
+
+A seção ports define a porta que deve ser exposta pelo ambiente do Gitpod e, no caso de onOpen: open-preview, especifica que o Gitpod deve abrir automaticamente uma visualização da porta no navegador quando ela for aberta.
+
 
